@@ -343,7 +343,7 @@ pl:
     writings: Writings
   signup:
     almost_there: Prawie jesteś wsród nas!
-    error_bar: Hallo, Ciechanów, mamy problem. Przewiń w dół po wiecej info.
+    error_bar: Hallo, Ciechanów, mamy problem. Przewiń w dół po więcej info.
     error_birthdate: Data urodzenia jest wymagana.
     error_birthdate_too_old: Masz za dużo lat na takie zabawy.
     error_birthdate_too_young: Sorry, musisz mieć 18 lub więcej by dołaczyć.
@@ -419,32 +419,32 @@ pl:
     feed:
       activity_feed: Activity Feed
       activity_feed_short: Home
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
-      fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
-      kp_short: Popular
+      fp: Świeżutkie <span class="a-ampersand">&amp;</span>sprośne
+      fp_short: Świeże
+      kp: Kinky<span class="a-ampersand">&amp;</span>Popularne
+      kp_short: Popularne
     profile:
-      about: About Me
-      about_short: About
-      latest: Latest Activity
-      latest_short: Latest
-      pictures: Pictures
-      pictures_short: Pics
-      videos: Videos
-      videos_short: Vids
-      writings: Writings
-      writings_short: Writings
+      about: O mnie
+      about_short: O mnie
+      latest: Ostatnia aktywnośc
+      latest_short: Ostatnio
+      pictures: Zdjęcia
+      pictures_short: Fotki
+      videos: Filmy
+      videos_short: Filmy
+      writings: Zapiski
+      writings_short: Zapiski
     settings:
-      account: Account
-      account_short: Account
-      notifications: Notifications
-      notifications_short: Notifications
-      privacy: Privacy
-      privacy_short: Privacy
-      profile: Profile
-      profile_short: Profile
-      support: Support
-      support_short: Support
+      account: Konto
+      account_short: Konto
+      notifications: Powiadomienia
+      notifications_short: Powiadomienia
+      privacy: Prywatność
+      privacy_short: Prywatność
+      profile: Profil
+      profile_short: Profil
+      support: Wsparcie
+      support_short: Wsparcie
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
