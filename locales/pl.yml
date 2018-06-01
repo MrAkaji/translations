@@ -1,5 +1,5 @@
 ---
-en:
+pl:
   2fa:
     5strike:
       return: return to front page
@@ -22,7 +22,7 @@ en:
     sub_header: Not to be confused with the Spartans.
     title: We. Are. FetLife!
   components:
-    step: Step
+    step: Krok
   feed:
     comment: Comment
     comments_count:
@@ -342,49 +342,49 @@ en:
     write_post: Write Post
     writings: Writings
   signup:
-    almost_there: Almost There!
-    error_bar: Dallas, we have a problem. Scroll down for more info.
-    error_birthdate: Date of birth is required.
-    error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: Sorry, you must be 18 or older to join.
-    error_city_missing: City has to be selected.
-    error_country_missing: Country has to be selected.
-    error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
-    error_email_taken: Email has already been taken.
-    error_gender_required: Gender has to be selected.
-    error_nickname: Nickname is already taken.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
-    error_nickname_required: Nickname is required.
-    error_password_range: Password needs to be between 8 and 100 characters.
-    error_password_required: Password is required.
-    error_role_required: Role has to be selected.
-    error_sexual_orientation_required: Sexual Orientation has to be selected.
-    error_state_missing: State/Province has to be selected.
-    footnote: By clicking "Complete Signup & Verification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    almost_there: Prawie jesteś wsród nas!
+    error_bar: Hallo, Ciechanów, mamy problem. Przewiń w dół po wiecej info.
+    error_birthdate: Data urodzenia jest wymagana.
+    error_birthdate_too_old: Masz za dużo lat na takie zabawy.
+    error_birthdate_too_young: Sorry, musisz mieć 18 lub więcej by dołaczyć.
+    error_city_missing: Musisz wskazać miasto.
+    error_country_missing: Musisz wybrać kraj.
+    error_email: Mamy problem z powyższym adressem email. Proponujemy sprawdzić pisownie lub spróbować inny.
+    error_email_taken: Adress email jest zajęty.
+    error_gender_required: Musisz określić płeć.
+    error_nickname: Ta ksywa jest już zajeta.
+    error_nickname_bad_word: Ksywa nie może zawierać tego słowa '%{word}'.
+    error_nickname_characters: Ksywka może składać się tylko z liter, cyfr, myślników, podkreslenia; I żadnych przerw - spacji.
+    error_nickname_length: Ksywa musi mieć od 2 do 16 znaków długości.
+    error_nickname_required: Musisz mieć ksywe.
+    error_password_range: Hasło musi mieć od 8 do 100 znaków.
+    error_password_required: Hasło jest wymagane.
+    error_role_required: Wybierz twoją rolę.
+    error_sexual_orientation_required: Musisz okreslić orientację seksualną.
+    error_state_missing: State/Province muszą być wskazane.
+    footnote: Klikając "Zakończ zapis i weryfikację" zgadzasz się przestrzegać i wypełniać nasze <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Warunki korzystania</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Polityki prywatności</a>, i <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
-      birthdate: Birthdate
-      city: City
-      country: Country
-      email: Email Address
-      gender: Gender
-      location: Location
-      nickname: Nickname
-      password: Password
-      role: Role
-      sexual_orientation: Sexual Orientation
+      birthdate: Data urodzenia
+      city: Miasto
+      country: Kraj
+      email: Adres email
+      gender: Płeć
+      location: Położenie
+      nickname: Ksywa
+      password: Hasło
+      role: Rola
+      sexual_orientation: Orientacja seksualna
       state: State/Province
-    page_title: Join
-    return_to_login: Already a member? Login to FetLife
-    subtitle: Tell us a little bit about yourself.
-    subtitle_invite: "%{name} invited you to join FetLife."
-    title: Welcome Home
+    page_title: Dołącz
+    return_to_login: Jesteś wśród nas? Login to FetLife
+    subtitle: Powiedź nam coś o sobie. Niewstydź się.
+    subtitle_invite: "%{name} chce byś dołączył/a do FetLife."
+    title: Witaj w domu!
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: If you''re shy and prefer not to show your face, don''t hesitate to get creative and show a different side of you! Or if you prefer, you can <a class="silver" href="%{next_step_path}">skip this step</a> for now.'
-    say_cheese: Say Cheese!
-    subtitle: Kinksters with an avatar have 69x more fun.
-    title: Upload an Avatar
+    pro_tip: '<strong>Podpowiedź</strong>: Jeśli się wstydzisz i wolisz nie pokazywać twarzy, nie ukrywaj swojej kreatywności i pokaż się zinnej strony! Albo jesli nalegasz możesz <a class="silver" href="%{next_step_path}">pominąć ten krok</a> narazie.'
+    say_cheese: Powiedź bąbelki! Albo Sex zależy co wolisz.
+    subtitle: Kinksterzy z avatarem mają 69 razy wiecej przyjemności.
+    title: Załaduj avatar
   signup_five_strikes:
     page_title: Five Strike Rule
     return_to_front: return to front page
