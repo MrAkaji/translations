@@ -2,37 +2,37 @@
 pl:
   2fa:
     5strike:
-      return: return to front page
-      subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try to login again.
+      return: powrót do głownej
+      subtitle: Zatrzymaj sie, ze względów bezpieczeństwa musisz poczekać dwie godziny nim spróbujesz ponownie się zalogować.
       title: Five Strike Rule
-    cta: It's me, let me in!
-    error: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code above seems off. Please verify that the number above matches what you received from us and try again."
-    label: Authentication Code
-    page_title: 2-Factor Authentication
-    subtitle: 2-Factor me baby!
-    title: Secret Code
+    cta: To ja, wpuśćcie mnie!
+    error: "<strong>Kinky Operator:</strong> W czym pomóc; Kod weryfikacyjny powyżej wydaje się niepasować. Proszę sprawdzić numer powyżej z tym otrzymanym odnas i spróbować ponownie."
+    label: Kod autoryzacji
+    page_title: 2-element autoryzacji
+    subtitle: 2-elemntuj mnie mała!
+    title: Secretny kod
   about:
-    contact_info: Contact Info
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
-    europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
-    one_love: One love, one life, and a whole lot of kink.
-    snail_mail: Snail Mail
-    sub_header: Not to be confused with the Spartans.
+    contact_info: Info kontaktowe
+    email_us: Napisz email <a href="mailto:support@fetlife.com">support@fetlife.com</a> a my odezwiemy się do ciebie!
+    europe: Europa
+    got_question: MAsz pytanie? Potrzebujesz pomocy?
+    north_america: Ameryka północna
+    one_love: Jedna miłość, jedno zycie i cała masa perversji i kinku.
+    snail_mail: Poczta tradycyjnie papierowo powolna.
+    sub_header: Prosimy nie mylić ze Spartanami.
     title: We. Are. FetLife!
   components:
     step: Krok
   feed:
-    comment: Comment
+    comment: Głos
     comments_count:
-      one: 1 Comment
-      other: "%{count_with_delimiter} Comments"
+      one: 1 Głos
+      other: "%{count_with_delimiter} głosy"
     composer:
-      button: Say It
-      placeholder: What say you?
+      button: Powiedz to
+      placeholder: Co powiesz?
     love: Love
-    loved_hover: Heart Breaker! :-(
+    loved_hover: Łamiesz Mi serce! :-(
     loves_count:
       one: 1 Love
       other: "%{count_with_delimiter} Loves"
@@ -139,7 +139,7 @@ pl:
     view_invitations: view your invitations
   landing_page:
     login_button: Login to FetLife
-    signup_button: Join FetLife
+    signup_button: Dołącz do FetLife
     stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
     stats_members: Members
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
@@ -148,14 +148,14 @@ pl:
     headers:
       2257_exempt: 2257 Exempt
       guidelines_for_legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
+      privacy_policy: Polityka prywatności
+      terms_of_use: Warunki korzystania
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Legal Requests
-      privacy: Privacy Policy
-      terms: Terms of Use
-    title: Legalese
+      privacy: Polityka prywatności
+      terms: Warunki korzystania
+    title: Prawnikalia
   lockout:
     subtitle: You've tripped our security system.
     title: Security, Security, Security!
