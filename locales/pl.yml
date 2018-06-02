@@ -2,7 +2,7 @@
 pl:
   2fa:
     5strike:
-      return: powrót do głownej
+      return: powrót do głównej
       subtitle: Zatrzymaj sie, ze względów bezpieczeństwa musisz poczekać dwie godziny nim spróbujesz ponownie się zalogować.
       title: Five Strike Rule
     cta: To ja, wpuśćcie mnie!
@@ -37,10 +37,10 @@ pl:
       one: 1 Love
       other: "%{count_with_delimiter} Loves"
     modal:
-      close: close
-      more: more
-      reply: Reply
-    title: Activity Feed
+      close: zamknij
+      more: więcej
+      reply: Odpowiedz
+    title: Strumień aktywności
   following:
     follow: Follow
     following: Following
