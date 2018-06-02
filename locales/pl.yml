@@ -352,11 +352,11 @@ pl:
     error_email: Mamy problem z powyższym adressem email. Proponujemy sprawdzić pisownie lub spróbować inny.
     error_email_taken: Adress email jest zajęty.
     error_gender_required: Musisz określić płeć.
-    error_nickname: Ta ksywa jest już zajeta.
-    error_nickname_bad_word: Ksywa nie może zawierać tego słowa '%{word}'.
-    error_nickname_characters: Ksywka może składać się tylko z liter, cyfr, myślników, podkreslenia; I żadnych przerw - spacji.
-    error_nickname_length: Ksywa musi mieć od 2 do 16 znaków długości.
-    error_nickname_required: Musisz mieć ksywe.
+    error_nickname: Ten pseudonim jest już zajety.
+    error_nickname_bad_word: Pseudonim nie może zawierać tego słowa '%{word}'.
+    error_nickname_characters: Pseudonim może składać się tylko z liter, cyfr, myślników, podkreslenia; I żadnych przerw - spacji.
+    error_nickname_length: Pseudonim musi mieć od 2 do 16 znaków długości.
+    error_nickname_required: Musisz mieć pseudonim.
     error_password_range: Hasło musi mieć od 8 do 100 znaków.
     error_password_required: Hasło jest wymagane.
     error_role_required: Wybierz twoją rolę.
@@ -370,7 +370,7 @@ pl:
       email: Adres email
       gender: Płeć
       location: Położenie
-      nickname: Ksywa
+      nickname: Pseudonim
       password: Hasło
       role: Rola
       sexual_orientation: Orientacja seksualna
